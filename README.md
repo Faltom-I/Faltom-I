@@ -5,4 +5,4 @@
 Todo
 
 ## Liens utiles
- - [Réunions](CR/index.md)
+ - [Réunions](/tree/master/CR/index.md)
