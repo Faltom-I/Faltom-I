@@ -2,7 +2,7 @@
 
 ## Description
 
-Todo
+- [Spécifications](specification.md)
 
 ## Liens utiles
  - [Réunions](./CR/index.md)
