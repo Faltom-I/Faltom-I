@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="125.447935493mm" height="125.453843626mm" viewBox="0 0 125.447935493 125.453843626" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Dimension005" transform="translate(25.218054,87.726922) scale(1,-1)">
+<path d="M -22.5 5.0 L -22.5 5.0 L -22.5 -35.0 L -22.5 -35.0" fill="none" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-22.5 5.0" freecad:basepoint2="-22.5 -35.0" freecad:dimpoint="-22.5 5.0"/>
+<path transform="rotate(-90.0,-22.5,5.0) translate(-22.5,5.0) scale(1.33333333333,1.33333333333)" freecad:skip="1" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<path transform="rotate(90.0,-22.5,-35.0) translate(-22.5,-35.0) scale(1.33333333333,1.33333333333)" freecad:skip="1" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<text fill="#000000" font-size="6.0" style="text-anchor:middle;text-align:center;font-family:" transform="rotate(-90.0,-20.5,-15.0) translate(-20.5,-15.0) scale(1,-1) " freecad:skip="1">
+40 mm</text>
+<title>Dim Hole Y</title>
+</g>
+<g id="Dimension002" transform="translate(25.218054,87.726922) scale(1,-1)">
+<path d="M 75.0 0.0 L 85.0 0.0 L 85.0 50.0 L 75.0 50.0" fill="none" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="75.0 0.0" freecad:basepoint2="75.0 50.0" freecad:dimpoint="85.0 0.0"/>
+<path transform="rotate(90.0,85.0,0.0) translate(85.0,0.0) scale(1.33333333333,1.33333333333)" freecad:skip="1" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<path transform="rotate(270.0,85.0,50.0) translate(85.0,50.0) scale(1.33333333333,1.33333333333)" freecad:skip="1" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<text fill="#000000" font-size="6.0" style="text-anchor:middle;text-align:center;font-family:" transform="rotate(90.0,83.0,25.0) translate(83.0,25.0) scale(1,-1) " freecad:skip="1">
+X = m * 25 mm</text>
+<title>Dim Board X</title>
+</g>
+<g id="Dimension003" transform="translate(25.218054,87.726922) scale(1,-1)">
+<path d="M 0.0 50.0 L 0.0 60.0 L 75.0 60.0 L 75.0 50.0" fill="none" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="0.0 50.0" freecad:basepoint2="75.0 50.0" freecad:dimpoint="0.0 60.0"/>
+<path transform="rotate(-0.0,0.0,60.0) translate(0.0,60.0) scale(1.33333333333,1.33333333333)" freecad:skip="1" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<path transform="rotate(180.0,75.0,60.0) translate(75.0,60.0) scale(1.33333333333,1.33333333333)" freecad:skip="1" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<text fill="#000000" font-size="6.0" style="text-anchor:middle;text-align:center;font-family:" transform="rotate(-0.0,37.5,62.0) translate(37.5,62.0) scale(1,-1) " freecad:skip="1">
+Y = n * 25 mm</text>
+<title>Dim Board Y</title>
+</g>
+<g id="Dimension004" transform="translate(25.218054,87.726922) scale(1,-1)">
+<path d="M -22.5 -35.0 L -22.5 -35.0 L 17.5 -35.0 L 17.5 -35.0" fill="none" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-22.5 -35.0" freecad:basepoint2="17.5 -35.0" freecad:dimpoint="-22.5 -35.0"/>
+<path transform="rotate(-0.0,-22.5,-35.0) translate(-22.5,-35.0) scale(1.33333333333,1.33333333333)" freecad:skip="1" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<path transform="rotate(180.0,17.5,-35.0) translate(17.5,-35.0) scale(1.33333333333,1.33333333333)" freecad:skip="1" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<text fill="#000000" font-size="6.0" style="text-anchor:middle;text-align:center;font-family:" transform="rotate(-0.0,-2.5,-33.0) translate(-2.5,-33.0) scale(1,-1) " freecad:skip="1">
+40 mm</text>
+<title>Dim Hole X</title>
+</g>
+<g id="Rectangle" transform="translate(25.218054,87.726922) scale(1,-1)">
+<path id="Rectangle_f0000"  d="M 0.0 0.0 L 75.0 0.0 L 75.0 50.0 L 0.0 50.0 L 0.0 0.0 Z " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#00ab00;fill-rule: evenodd "/>
+<title>BoardShape</title>
+</g>
+<g id="Groupe" transform="translate(25.218054,87.726922) scale(1,-1)">
+<title>Board</title>
+</g>
+<g id="Array" transform="translate(25.218054,87.726922) scale(1,-1)">
+<circle cx="-22.5" cy="-35.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="-22.5" cy="5.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="-22.5" cy="45.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="-22.5" cy="85.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="17.5" cy="-35.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="17.5" cy="5.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="17.5" cy="45.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="17.5" cy="85.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="57.5" cy="-35.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="57.5" cy="5.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="57.5" cy="45.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="57.5" cy="85.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="97.5" cy="-35.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="97.5" cy="5.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="97.5" cy="45.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="97.5" cy="85.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<title>Array</title>
+</g>
+<g id="Groupe001" transform="translate(25.218054,87.726922) scale(1,-1)">
+<title>Base</title>
+</g>
+</svg>
