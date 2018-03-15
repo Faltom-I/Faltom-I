@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="76.5mm" height="51.5mm" viewBox="0 0 76.5 51.5" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Groupe" transform="translate(-0.250000,50.750000) scale(1,-1)">
+<title>Board</title>
+</g>
+<g id="Dimension002" transform="translate(-0.250000,50.750000) scale(1,-1)">
+<path d="M 76.0 0.0 L 86.0 0.0 L 86.0 50.0 L 76.0 50.0" fill="none" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="76.0 0.0" freecad:basepoint2="76.0 50.0" freecad:dimpoint="86.0 0.0"/>
+<path transform="rotate(90.0,86.0,0.0) translate(86.0,0.0) scale(1.33333333333,1.33333333333)" freecad:skip="1" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<path transform="rotate(270.0,86.0,50.0) translate(86.0,50.0) scale(1.33333333333,1.33333333333)" freecad:skip="1" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<text fill="#000000" font-size="6.0" style="text-anchor:middle;text-align:center;font-family:" transform="rotate(90.0,84.0,25.0) translate(84.0,25.0) scale(1,-1) " freecad:skip="1">
+X = m * 25 mm</text>
+<title>Dim Board X</title>
+</g>
+<g id="Dimension003" transform="translate(-0.250000,50.750000) scale(1,-1)">
+<path d="M 1.0 50.0 L 1.0 60.0 L 76.0 60.0 L 76.0 50.0" fill="none" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="1.0 50.0" freecad:basepoint2="76.0 50.0" freecad:dimpoint="1.0 60.0"/>
+<path transform="rotate(-0.0,1.0,60.0) translate(1.0,60.0) scale(1.33333333333,1.33333333333)" freecad:skip="1" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<path transform="rotate(180.0,76.0,60.0) translate(76.0,60.0) scale(1.33333333333,1.33333333333)" freecad:skip="1" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<text fill="#000000" font-size="6.0" style="text-anchor:middle;text-align:center;font-family:" transform="rotate(-0.0,38.5,62.0) translate(38.5,62.0) scale(1,-1) " freecad:skip="1">
+Y = n * 25 mm</text>
+<title>Dim Board Y</title>
+</g>
+<g id="Rectangle" transform="translate(-0.250000,50.750000) scale(1,-1)">
+<path id="Rectangle_f0000"  d="M 1.0 0.0 L 76.0 0.0 L 76.0 50.0 L 1.0 50.0 L 1.0 0.0 Z " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#00ab00;fill-rule: evenodd "/>
+<title>BoardShape</title>
+</g>
+<g id="Groupe001" transform="translate(-0.250000,50.750000) scale(1,-1)">
+<title>Base</title>
+</g>
+<g id="rcj_041_top" transform="translate(-0.250000,50.750000) scale(1,-1)">
+<title>rcj-041_top</title>
+</g>
+<g id="_" transform="translate(-0.250000,50.750000) scale(1,-1)">
+<title>0</title>
+</g>
+<g id="User_Library_Audio_Jack_Neutrik_Amphenol_6_35" transform="translate(-0.250000,50.750000) scale(1,-1)">
+<title>User Library-Audio Jack Neutrik Amphenol 6_35</title>
+</g>
+</svg>
