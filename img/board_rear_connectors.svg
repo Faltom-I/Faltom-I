@@ -1,15 +1,11 @@
 <?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="152.773201175mm" height="132.995552964mm" viewBox="0 0 152.773201175 132.995552964" xmlns="http://www.w3.org/2000/svg" version="1.1">
-<g id="Line129" transform="translate(9.775425,91.497776) scale(1,-1)">
-<path id="Line129_nwe0000"  d="M 1.3532447895 41.8043067932 L 1.3532447895 45.0043067932 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Line129</title>
-</g>
 <g id="Dimension005" transform="translate(9.775425,91.497776) scale(1,-1)">
-<path d="M 20.0 5.0 L 20.0 5.0 L 20.0 -35.0 L 20.0 -35.0" fill="none" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="20.0 5.0" freecad:basepoint2="20.0 -35.0" freecad:dimpoint="20.0 5.0"/>
-<path transform="rotate(-90.0,20.0,5.0) translate(20.0,5.0) scale(1.33333333333,1.33333333333)" freecad:skip="1" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
-<path transform="rotate(90.0,20.0,-35.0) translate(20.0,-35.0) scale(1.33333333333,1.33333333333)" freecad:skip="1" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
-<text fill="#000000" font-size="6.0" style="text-anchor:middle;text-align:center;font-family:" transform="rotate(-90.0,22.0,-15.0) translate(22.0,-15.0) scale(1,-1) " freecad:skip="1">
+<path d="M 100.0 5.0 L 100.0 5.0 L 100.0 -35.0 L 100.0 -35.0" fill="none" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="100.0 5.0" freecad:basepoint2="100.0 -35.0" freecad:dimpoint="100.0 5.0"/>
+<path transform="rotate(-90.0,100.0,5.0) translate(100.0,5.0) scale(1.33333333333,1.33333333333)" freecad:skip="1" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<path transform="rotate(90.0,100.0,-35.0) translate(100.0,-35.0) scale(1.33333333333,1.33333333333)" freecad:skip="1" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<text fill="#000000" font-size="6.0" style="text-anchor:middle;text-align:center;font-family:" transform="rotate(-90.0,102.0,-15.0) translate(102.0,-15.0) scale(1,-1) " freecad:skip="1">
 40 mm</text>
 <title>Dim Hole Y</title>
 </g>
@@ -30,10 +26,10 @@ Y = n * 25 mm</text>
 <title>Dim Board Y</title>
 </g>
 <g id="Dimension004" transform="translate(9.775425,91.497776) scale(1,-1)">
-<path d="M 20.0 -35.0 L 20.0 -35.0 L 60.0 -35.0 L 60.0 -35.0" fill="none" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="20.0 -35.0" freecad:basepoint2="60.0 -35.0" freecad:dimpoint="20.0 -35.0"/>
-<path transform="rotate(-0.0,20.0,-35.0) translate(20.0,-35.0) scale(1.33333333333,1.33333333333)" freecad:skip="1" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
-<path transform="rotate(180.0,60.0,-35.0) translate(60.0,-35.0) scale(1.33333333333,1.33333333333)" freecad:skip="1" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
-<text fill="#000000" font-size="6.0" style="text-anchor:middle;text-align:center;font-family:" transform="rotate(-0.0,40.0,-33.0) translate(40.0,-33.0) scale(1,-1) " freecad:skip="1">
+<path d="M 100.0 -35.0 L 100.0 -35.0 L 140.0 -35.0 L 140.0 -35.0" fill="none" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="100.0 -35.0" freecad:basepoint2="140.0 -35.0" freecad:dimpoint="100.0 -35.0"/>
+<path transform="rotate(-0.0,100.0,-35.0) translate(100.0,-35.0) scale(1.33333333333,1.33333333333)" freecad:skip="1" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<path transform="rotate(180.0,140.0,-35.0) translate(140.0,-35.0) scale(1.33333333333,1.33333333333)" freecad:skip="1" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" d="M 0 0 L 4 1 L 4 -1 Z"/>
+<text fill="#000000" font-size="6.0" style="text-anchor:middle;text-align:center;font-family:" transform="rotate(-0.0,120.0,-33.0) translate(120.0,-33.0) scale(1,-1) " freecad:skip="1">
 40 mm</text>
 <title>Dim Hole X</title>
 </g>
@@ -136,6 +132,10 @@ Y = n * 25 mm</text>
 </g>
 <g id="THICK" transform="translate(9.775425,91.497776) scale(1,-1)">
 <title>THICK</title>
+</g>
+<g id="Line129" transform="translate(9.775425,91.497776) scale(1,-1)">
+<path id="Line129_nwe0000"  d="M 1.3532447895 41.8043067932 L 1.3532447895 45.0043067932 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Line129</title>
 </g>
 <g id="Line146" transform="translate(9.775425,91.497776) scale(1,-1)">
 <path id="Line146_nwe0000"  d="M 4.0966637895 44.4043067932 L 5.1377977895 44.4043067932 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
