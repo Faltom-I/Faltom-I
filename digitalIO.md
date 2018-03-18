@@ -40,9 +40,9 @@ La carte doit avoir deux connecteurs (**Jin** et **Jout**) de type MicroFit 3.0 
 | 5             | Sortie    | Logique   | MOSI  | Entrée des registres à décalage  (5v) |
 | 6             | Entrée    | Logique   | MISO  | Sortie des registres à décalage  (5v) |
 | 7             | Sortie    | Logique   | SET   | Application des registres à décalage de sortie  (5v) |
-| 8             | Sortie    | Logique   | LATCH | Mémorisaton des registres à décalage en entrée  (5v) |
-| 9             | Entrée    | Logique   | TX    | Bus Uart (3v3)  |
-| 10            | Sortie    | Logique   | RX    | Bus Uart (3v3)  |
+| 8             | Entrée    | Logique   | LATCH | Mémorisaton des registres à décalage en entrée  (5v) |
+| 9             | Entrée    | Logique   | RX    | Bus Uart (3v3)  |
+| 10            | Sortie    | Logique   | TX    | Bus Uart (3v3)  |
 | 11            | Entrée    | Logique   | INT   | Interrupt line (5v) |
 | 12            | -         | -         | -     | Non connecté  |
 
