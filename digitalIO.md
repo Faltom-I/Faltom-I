@@ -18,6 +18,7 @@ La carte doit avoir deux connecteurs (**Jin** et **Jout**) de type MicroFit 3.0 
 |---------------|-----------|-----------|-------|------------------|
 | 1             | Entrée    | Puissance | GND   | GND              |
 | 2             | Entrée    | Puissance | 5V    | +5V (100 mA max) |
+| 3             |           |           |       | Non connecté  |
 | 4             | Entrée    | Logique   | SCK   | Horloge des registres à décalage (5v) |
 | 5             | Entrée    | Logique   | MOSI  | Entrée des registres à décalage  (5v) |
 | 6             | Sortie    | Logique   | MISO  | Sortie des registres à décalage  (5v) |
@@ -34,6 +35,7 @@ La carte doit avoir deux connecteurs (**Jin** et **Jout**) de type MicroFit 3.0 
 |---------------|-----------|-----------|-------|------------------|
 | 1             | Sortie    | Puissance | GND   | GND              |
 | 2             | Sortie    | Puissance | 5V    | +5V (100 mA max) |
+| 3             |           |           |       | Non connecté  |
 | 4             | Sortie    | Logique   | SCK   | Horloge des registres à décalage (5v) |
 | 5             | Sortie    | Logique   | MOSI  | Entrée des registres à décalage  (5v) |
 | 6             | Entrée    | Logique   | MISO  | Sortie des registres à décalage  (5v) |
